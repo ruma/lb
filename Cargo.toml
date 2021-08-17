@@ -1,0 +1,8 @@
+[package]
+name = "ruma-lb"
+authors = ["Jonas Platte <jplatte@posteo.de>", "Jonathan de Jong <jonathan@automatia.nl>"]
+license = "MIT"
+version = "0.0.1"
+edition = "2018"
+
+[dependencies]
